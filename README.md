@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alen</h1>
 <h3 align="center">A self thought & passionate software engineer</h3>
 
-- 🔭 I’m currently working at [Idea Elan](https://www.ideaelan.com)
+- 🔭 I’m currently studying at **Univetsity College Cork**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Swift/Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alenGeoAlex/](https://github.com/alenGeoAlex/)
 
