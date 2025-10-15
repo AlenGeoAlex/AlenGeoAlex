@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alen</h1>
 <h3 align="center">A self thought & passionate software engineer</h3>
 
-- 🔭 I’m currently studying at **Univetsity College Cork**
+- 🔭 I’m currently studying at **University College Cork**
 
 - 🌱 I’m currently learning **Swift/Rust**
 
